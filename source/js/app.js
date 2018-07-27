@@ -1,11 +1,11 @@
 //Select DOM items
-let menuBtn = document.querySelector('.menu-btn');
-let menu = document.querySelector('.menu');
-let menuNav = document.querySelector('.menu-nav');
-let menuBranding = document.querySelector('.menu-branding');
-let navItems = document.querySelectorAll('.nav-item');
+var menuBtn = document.querySelector('.menu-btn');
+var menu = document.querySelector('.menu');
+var menuNav = document.querySelector('.menu-nav');
+var menuBranding = document.querySelector('.menu-branding');
+var navItems = document.querySelectorAll('.nav-item');
 //Set Initial State Of The Menu
-let showMenu = false;
+var showMenu = false;
 menuBtn.addEventListener('click', toggleMenu);
 function toggleMenu() {
     if(!showMenu) {
