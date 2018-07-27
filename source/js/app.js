@@ -30,3 +30,23 @@ function toggleMenu() {
         showMenu = false;
     }
 }
+//Scroll Reveal
+window.sr = ScrollReveal();
+sr.reveal('#contact .boxes .box1', {
+    delay: 100,
+    duration: 700,
+    origin: 'left',
+    distance: '1000px',
+});
+sr.reveal('#contact .boxes .box2', {
+    delay: 500,
+    duration: 700,
+    origin: 'bottom',
+    distance: '8000px',
+});
+sr.reveal('#contact .boxes .box3', {
+    delay: 400,
+    duration: 700,
+    origin: 'right',
+    distance: '1000px',
+});
