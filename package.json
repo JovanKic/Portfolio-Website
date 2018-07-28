@@ -3,10 +3,9 @@
     "version": "1.0.0",
     "description": "Starter Project",
     "main": "index.html",
-    "homepage": "https://JovanKic.github.io/Portfolio-Website-Responsive-",
+//    "homepage": "https://JovanKic.github.io/Portfolio-Website-Responsive-",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "deploy": "gh-pages -d build"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Kondor",
     "license": "ISC",
@@ -25,7 +24,5 @@
         "gulp-uglify": "^3.0.0",
         "scrollreveal": "^3.3.6"
     },
-    "dependencies": {
-        "gh-pages": "^1.2.0"
-    }
+    "dependencies": {}
 }
