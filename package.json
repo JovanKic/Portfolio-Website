@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "description": "Starter Project",
     "main": "index.html",
-//    "homepage": "https://JovanKic.github.io/Portfolio-Website-Responsive-",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
