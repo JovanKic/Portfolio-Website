@@ -39,8 +39,8 @@ sr.reveal('#contact .boxes .box1', {
     distance: '1000px',
 });
 sr.reveal('#contact .boxes .box2', {
-    delay: 500,
-    duration: 700,
+    delay: 0,
+    duration: 1300,
     origin: 'bottom',
     distance: '8000px',
 });
