@@ -45,7 +45,26 @@
     grid-template-columns: repeat(2, 1fr)
 //Smartphones
 @include mediaSm
+  #bg-img
+    overflow: hidden
   main#home h1
     margin-top: 10vh
+  .lg-heading
+    padding: 0
+    font-size: 4.5em !important
+    span
+      margin-left: -20%
+      //margin-left: 20px
+    //font-size: 1em
   .projects
     grid-template-columns: 1fr
+  #contact
+    h1
+      font-size: 3.8em
+    h2,h3
+      font-size: 1em
+    .boxes
+      & span
+         font-size: 3em
+      & .box1, .box2, .box3
+        font-size: 1em
