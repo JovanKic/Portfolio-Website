@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ef068790-4e48-4353-a303-e2c41b7c3765" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/css/main.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/sass/1-tools/_mobile.sass" beforeDir="false" afterPath="$PROJECT_DIR$/source/sass/1-tools/_mobile.sass" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build/index.html">
+      <file leaf-file-name="_typography.sass" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/sass/3-basics/_typography.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+            <state relative-caret-position="221">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_mobile.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/sass/1-tools/_mobile.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -42,6 +53,7 @@
       <find>brand</find>
       <find>docs</find>
       <find>home</find>
+      <find>h3</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -67,8 +79,6 @@
         <option value="$PROJECT_DIR$/../shoeApp-vezba/source/js/app.js" />
         <option value="$PROJECT_DIR$/source/js/app.js" />
         <option value="$PROJECT_DIR$/source/sass/3-basics/_base.sass" />
-        <option value="$PROJECT_DIR$/source/sass/2-helpers/_variables.sass" />
-        <option value="$PROJECT_DIR$/source/sass/3-basics/_typography.sass" />
         <option value="$PROJECT_DIR$/source/sass/6-pages/_page-about.sass" />
         <option value="$PROJECT_DIR$/source/sass/6-pages/_page-contact.sass" />
         <option value="$PROJECT_DIR$/source/sass/6-pages/_page-projects.sass" />
@@ -77,8 +87,10 @@
         <option value="$PROJECT_DIR$/build/index.html" />
         <option value="$PROJECT_DIR$/build/about.html" />
         <option value="$PROJECT_DIR$/build/contact.html" />
-        <option value="$PROJECT_DIR$/source/sass/1-tools/_mobile.sass" />
+        <option value="$PROJECT_DIR$/source/sass/2-helpers/_variables.sass" />
         <option value="$PROJECT_DIR$/build/projects.html" />
+        <option value="$PROJECT_DIR$/source/sass/3-basics/_typography.sass" />
+        <option value="$PROJECT_DIR$/source/sass/1-tools/_mobile.sass" />
       </list>
     </option>
   </component>
@@ -215,6 +227,14 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio-Website-Responsive-/build/index.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -231,12 +251,17 @@
       <workItem from="1532792611618" duration="1000" />
       <workItem from="1532792622296" duration="1053000" />
       <workItem from="1532793711954" duration="30000" />
-      <workItem from="1532795241434" duration="2955000" />
+      <workItem from="1532795241434" duration="3099000" />
+      <workItem from="1532799369513" duration="211000" />
+      <workItem from="1532901109555" duration="53000" />
+      <workItem from="1533035947096" duration="14000" />
+      <workItem from="1533035981165" duration="38000" />
+      <workItem from="1533130714879" duration="1603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48066000" />
+    <option name="totallyTimeSpent" value="50129000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -251,7 +276,7 @@
     <frame x="1912" y="-8" width="1096" height="1896" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19980694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21911196" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992035" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32992035" />
@@ -260,8 +285,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32992035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.12457338" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.12457338" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39988622" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -514,13 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/sass/2-helpers/_variables.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/sass/3-basics/_base.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -546,13 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/sass/3-basics/_typography.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -605,24 +616,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/sass/1-tools/_mobile.sass">
+    <entry file="file://$PROJECT_DIR$/source/sass/2-helpers/_variables.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="170">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+        <state relative-caret-position="231">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        <state relative-caret-position="231">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/sass/1-tools/_mobile.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/sass/3-basics/_typography.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
