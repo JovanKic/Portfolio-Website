@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/source/sass/4-layout/_menu.sass" line="66" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef068790-4e48-4353-a303-e2c41b7c3765" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/projects.html" afterDir="false" />
-    </list>
+    <list default="true" id="ef068790-4e48-4353-a303-e2c41b7c3765" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +251,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Github-Finder" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -309,12 +306,12 @@
       <workItem from="1533035981165" duration="38000" />
       <workItem from="1533130714879" duration="4769000" />
       <workItem from="1533208079253" duration="52000" />
-      <workItem from="1533483829889" duration="935000" />
+      <workItem from="1533483829889" duration="1029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54282000" />
+    <option name="totallyTimeSpent" value="54376000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
